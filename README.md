@@ -6,7 +6,7 @@ I also worked as technical content writer for Qualcomm Developer Network(QDN) an
 
 🔭 I’m currently working on: Core DBA Development
 <br>
-🌱 I’m currently learning: C++, Kubernets, Network Security & can find my experince here in [my ressume](#https://kiranjv888.github.io/resume/)
+🌱 I’m currently learning: C++, Kubernets, Network Security & can find my experince here in [my ressume](https://kiranjv888.github.io/resume/)
 <br>
 👯 I’m looking to collaborate on: A project that's basic enough for me to make my own pull request (with help or guidence)
 <br>
